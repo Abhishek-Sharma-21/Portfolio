@@ -42,7 +42,7 @@ npm run dev
 # or yarn dev / pnpm dev
 ```
 
-Open [http://localhost:5173](http://localhost:5173) to view it in your browser.
+Open [https://portfolio-red-three-p9ae3qqouk.vercel.app](https://portfolio-red-three-p9ae3qqouk.vercel.app) to view it in your browser.
 
 ## 🛠️ Built With
 
